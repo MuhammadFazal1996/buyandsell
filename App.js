@@ -14,7 +14,7 @@ export default function App() {
       style= {{
         backgroundColor: "dodgerblue",
         width: "100%",
-        height: landscape ? "100%" : "30%"
+        height: landscape ? "100%" : "40%"
       }}
       ></View>
     </SafeAreaView>
